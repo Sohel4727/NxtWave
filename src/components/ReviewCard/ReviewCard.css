@@ -1,0 +1,31 @@
+.review_card_container {
+
+    margin-top: 1rem;
+    padding: 15px;
+    width: 320px;
+    height: 100%;
+    border-radius: 18px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  }
+  .details_contaier{
+    display: flex;
+  }
+  .middle_section{
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .designation{
+    margin: 10px auto;
+    font-weight:500
+  }
+  .student_name{
+    font-size: large;
+    font-weight: bold;
+  }
+  .arow_container{
+    display: flex;
+    justify-content: end;
+  }
